@@ -10,7 +10,7 @@ After Malaysia's 15th General Election, the new government aimed to strengthen t
 - Least Square: To predict future inflation of a certain country based on past 10 years of Consumer Price per Inflation rate and GDP.
 
 <h2>DATA COLLECTION</h2>
-- raw data/global cpi from the year 1960 - 2022 retrieved from World Bank Open Data  <a>https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=MY</a> <br>
-- raw data/global GDP annually percentage from the year 1960 - 2022 retrieved from World Bank Open Data <a>https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=MY</a>
+- raw data/global cpi from the year 1960 - 2022 retrieved from World Bank Open Data  <a href="https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=MY">https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=MY</a> <br>
+- raw data/global GDP annually percentage from the year 1960 - 2022 retrieved from World Bank Open Data <a href="https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=MY">https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=MY</a>
 
 
