@@ -2,7 +2,7 @@
 
 After Malaysia's 15th General Election, the new government aimed to strengthen the economy and prepare for an upcoming inflation wave. However, many Malaysians lack awareness of economic factors, often using the value of the Malaysian Ringgit (MYR) as the sole indicator of the economy's performance. This project focuses on inflation and acknowledges that it depends on multiple variables, not just economic strength. I will analyze inflation using two independant variables: consumer prices and Gross Domestic Product percentage (GDP%). Consumer prices represent average prices of goods and services, while GDP measures the market value of all final goods and services produced. By incorporating both variables, I aim to forecast each country's future inflation rate and promote economic awareness among Malaysians. Our study compares and forecasts consumer prices using the Least Squares method across Malaysia, Singapore, Thailand, and Indonesia.
 
-<h2>OBJECTIVES:</h2>
+<h2>OBJECTIVES: </h2>
 - Identify future inflation rate of each neighboring countries using single independent variable and two independent variable.<br>
 - Compare the future inflation rate between neighboring countries.
 
